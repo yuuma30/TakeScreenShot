@@ -32,7 +32,7 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/takButton"
+            android:id="@+id/takeButton"
             android:text="写真を撮る"/>
         <Button
             android:layout_width="wrap_content"
